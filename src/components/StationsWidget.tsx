@@ -21,7 +21,7 @@ const StationsWidget: React.FC = () => {
   const [activeStation, setActiveStation] = useState<activeStationInterface>({ stationOpenIndex: null });
 
   useEffect(() => {
-    const stationsUrl = "/data/stations.json";
+    const stationsUrl = "./data/stations.json";
     axios
       .get<stationInterface[]>(stationsUrl)
       .then((response) => {
