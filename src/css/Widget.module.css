@@ -127,4 +127,10 @@
   font-size: 26px;
   color: #a2abbd;
 }
+
+@media only screen and (max-width: 450px) {
+  .container {
+    width: calc(100% - 40px);
+  }
+}
 /*# sourceMappingURL=Widget.module.css.map */
