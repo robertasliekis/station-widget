@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/station-widget/static/css/main.bf64d1c6.chunk.css",
+    "main.js": "/station-widget/static/js/main.13bf53cc.chunk.js",
+    "main.js.map": "/station-widget/static/js/main.13bf53cc.chunk.js.map",
+    "runtime-main.js": "/station-widget/static/js/runtime-main.9cd9eea1.js",
+    "runtime-main.js.map": "/station-widget/static/js/runtime-main.9cd9eea1.js.map",
+    "static/js/2.af987c21.chunk.js": "/station-widget/static/js/2.af987c21.chunk.js",
+    "static/js/2.af987c21.chunk.js.map": "/station-widget/static/js/2.af987c21.chunk.js.map",
+    "index.html": "/station-widget/index.html",
+    "static/css/main.bf64d1c6.chunk.css.map": "/station-widget/static/css/main.bf64d1c6.chunk.css.map",
+    "static/js/2.af987c21.chunk.js.LICENSE.txt": "/station-widget/static/js/2.af987c21.chunk.js.LICENSE.txt",
+    "static/media/Widget.module.css": "/station-widget/static/media/switch.659e80a3.png",
+    "static/media/Station.module.css": "/station-widget/static/media/plus.7e599da6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cd9eea1.js",
+    "static/js/2.af987c21.chunk.js",
+    "static/css/main.bf64d1c6.chunk.css",
+    "static/js/main.13bf53cc.chunk.js"
+  ]
+}
